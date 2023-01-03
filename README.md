@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsoupionis
 - 👀 I’m interested in learning all different types of programming and coding languages, along with game design
-- 🌱 I’m currently learning Java in school and Web Development through a Udemy bootcamp
+- 🌱 I’m currently learning Java and C++ in school and Web Development through a Udemy bootcamp
 - 📫 How to reach me: https://www.linkedin.com/in/thomas-soupionis/
 
 <!---
